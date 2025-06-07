@@ -20,4 +20,4 @@ Task 1: Create a responsive landing page using HTML, CSS, and JavaScript.
 >https://elakkiya2708.github.io/PRODIGY_WD_01/
 
 ## 👩‍💻 Developed by:
-Elakkiya – Web Development Intern at Prodigy InfoTech
+Elakkiya Vradharajan – Web Development Intern at Prodigy InfoTech
